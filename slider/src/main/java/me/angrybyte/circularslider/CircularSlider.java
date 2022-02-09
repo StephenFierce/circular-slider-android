@@ -255,6 +255,9 @@ public class CircularSlider extends View {
         }
     }
 
+    public double getAngle(){
+    return mAngle;
+    }
     /**
      * Saves a new slider moved listener. Set {@link CircularSlider.OnSliderMovedListener} to {@code null} to remove it.
      *
