@@ -11,20 +11,20 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'slider'
 
-    publishedGroupId = 'me.angrybyte.slider'
+    publishedGroupId = 'com.github.StephenFierce'
     libraryName = 'CircularSlider'
     artifact = 'slider'
 
     libraryDescription = 'A simple circular slider for Android.'
 
-    siteUrl = 'https://github.com/milosmns/circular-slider-android'
-    gitUrl = 'https://github.com/milosmns/circular-slider-android.git'
+    siteUrl = 'https://github.com/StephenFierce/circular-slider-android'
+    gitUrl = 'https://github.com/StephenFierce/circular-slider-android.git'
 
-    libraryVersion = '1.4.2'
+    libraryVersion = '0.1'
 
-    developerId = 'milosmns'
-    developerName = 'Milos Marinkovic'
-    developerEmail = 'milosmns@gmail.com'
+    developerId = 'StephenFierce'
+    developerName = 'Stephen Fiers'
+    developerEmail = 'stephenfiers@gmail.com'
 
     licenseName = 'GNU General Public License, Version 3.0'
     licenseUrl = 'http://www.gnu.org/licenses/gpl-3.0.en.html'
